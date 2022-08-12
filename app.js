@@ -166,7 +166,7 @@ console.log('app js running');
 // const area = Math.sqrt(
 //   perimeter * ((perimeter - side1) * (perimeter - side2) * (perimeter - side3)),
 // );
-
+amma
 // console.log(`Area of triangle is ${area}, perimeter is ${perimeter}.`);
 /*
 * 3. temperature convertion : 8min
